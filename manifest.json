@@ -13,13 +13,13 @@
     {
       "importedFileName": "readme",
       "pages": [],
-      "path": "adobeio/adobeio-documentation/master/cli/readme.md",
+      "path": "adobedocs/adobeio-cli/master/readme.md",
       "title": "Overview"
     },
     {
       "importedFileName": "readme",
       "pages": [],
-      "path": "adobeio/adobeio-documentation/master/cli/config/readme.md",
+      "path": "adobedocs/adobeio-cli/master/config/readme.md",
       "title": "Config Commands"
     },
     {
@@ -28,23 +28,23 @@
         {
             "importedFileName": "workflows",
             "pages": [],
-            "path": "adobeio/adobeio-documentation/master/cli/console/workflows",
+            "path": "adobedocs/adobeio-cli/master/console/workflows",
             "title": "Console Workflows"
         }
       ],
-      "path": "adobeio/adobeio-documentation/master/cli/console/readme.md",
+      "path": "adobedocs/adobeio-cli/master/console/readme.md",
       "title": "Console Commands"
     },
     {
       "importedFileName": "readme",
       "pages": [],
-      "path": "adobeio/adobeio-documentation/master/cli/jwt-auth/readme.md",
+      "path": "adobedocs/adobeio-cli/master/jwt-auth/readme.md",
       "title": "JWT Authentication"
     },
     {
       "importedFileName": "releasenotes",
       "pages": [],
-      "path": "adobeio/adobeio-documentation/master/cli/releasenotes.md",
+      "path": "adobedocs/adobeio-cli/master/releasenotes.md",
       "title": "Release Notes"
     }
 ]
